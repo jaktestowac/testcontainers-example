@@ -13,7 +13,11 @@ More:
 
 ## About the tests
 
-Tests for **🦎 GAD**. Based on:
+Tests for **🦎 GAD** (application for learning test automation):
+
+-   https://hub.docker.com/r/jaktestowac/gad
+
+Tests are based on:
 
 -   mocha
 -   chai
