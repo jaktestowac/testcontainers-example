@@ -1,0 +1,20 @@
+{
+  "name": "testcontainers-example",
+  "version": "1.0.0",
+  "description": "Sample tests on Testcontainers",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha --require hooks.js"
+  },
+  "author": "jaktestowac.pl",
+  "license": "ISC",
+  "engines": {
+    "node": ">=16.x"
+  },
+  "devDependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "supertest": "^6.3.3",
+    "testcontainers": "^10.2.1"
+  }
+}
